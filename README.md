@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://github.com/GuiOliveira0">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=GuiOliveira0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="47.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiOliveira0&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="47.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiOliveira0&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
