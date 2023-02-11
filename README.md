@@ -1,4 +1,4 @@
-### Oiee eu sou o Guilherme Oliveira, estudante de informática! 🎮
+### Oiee eu sou o Guilherme Oliveira, futuro Cientista da Computação! 📚💻🎮
 
 <!--
 **GuiOliveira0/GuiOliveira0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
